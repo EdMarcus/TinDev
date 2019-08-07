@@ -66,7 +66,7 @@ export default function Main({match}){
                 ))}
                 </ul>
             ) : (
-                <div className="empty">Não há mais devs! :/</div>
+                <div className="empty">Acabaram os devs! :/</div>
             )}
         </div>
     );
